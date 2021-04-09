@@ -16,5 +16,5 @@ steps:
     trigger: 
       branch: 
         - MaD
+        - Esp
         - Logan
-        - staging
